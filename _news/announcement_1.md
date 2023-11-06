@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-New paper accepted at <a href='https://www.ijcai.org/proceedings/2023/659'>IJCAI 2023</a>!
+<a href='https://www.ijcai.org/proceedings/2023/659'>New paper</a> accepted at IJCAI 2023!
 
 
 
