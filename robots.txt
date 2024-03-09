@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://preetamdammu.com/sitemap.xml
+Sitemap: https://preetamdammu.github.io/sitemap.xml
