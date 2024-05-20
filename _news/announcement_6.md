@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-<a href='https://arxiv.org/abs/2405.05378'>New preprint</a> on covert harms in LLM-generated conversations on arXiv!
+<a href='https://arxiv.org/abs/2405.05378'>New preprint</a> on covert harms in LLM conversations on arXiv!
 
 
 
