@@ -16,9 +16,11 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 keywords: Preetam, Dammu, Generative AI, Machine Learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🚀 #bHusk.png #⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: uw_husky.webp #bHusk.png #🚀⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://preetamdammu.github.io # the base hostname & protocol for your site
+url: https://preetamdammu.com
+# https://preetamdammu.com
+# https://preetamdammu.github.io # the base hostname & protocol for your site
 #baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 #impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -51,7 +53,7 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -110,12 +112,11 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  G-MP2D9YGF16 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: <meta name="google-site-verification" content="fop1QB3weqY94KDMW_q5ZdL19ZZLHmJYtcmSybofgw8" /> # your google-site-verification ID (Google Search Console)
+google_site_verification: "fop1QB3weqY94KDMW_q5ZdL19ZZLHmJYtcmSybofgw8" #your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
-
 
 
 # -----------------------------------------------------------------------------
