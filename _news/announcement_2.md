@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started internship at Amazon as Applied Scientist II
+Started internship at Amazon as Applied Scientist II.
