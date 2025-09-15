@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-New paper on autonomous generative agent for subjective needs 
+<a href='https://dl.acm.org/doi/10.1145/3701551.3704124'>New paper</a> on autonomous generative agent for subjective needs 
 accepted at <a href='https://www.wsdm-conference.org/2025/'>WSDM 2025</a>!
 
 
