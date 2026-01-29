@@ -19,9 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there! I am a PhD Candidate at the University of Washington, Seattle.
-I am interested in exploring ways to make machine learning solutions more robust, explainable, and scalable. I am fortunate to be advised by <a href='https://chiragshah.org/'>Prof. Chirag Shah</a>.
 
-Before starting my PhD, I was a researcher at <a href='https://www.tcs.com/who-we-are/newsroom/tcs-in-the-news/tcs-research'>TCS Research</a>, where I worked on explainability and robustness in machine learning. During my Master's, advised by <a href='https://scholar.google.co.in/citations?user=bbSYyiAAAAAJ&hl=en'>Prof. Bapi Raju</a>, I applied machine learning to solve problems in Neuroscience.
 
-My current research interests lie in leveraging Generative AI for downstream tasks, and addressing technological issues associated with its adoption.
+Hello! I’m a PhD Candidate at the University of Washington, Seattle, advised by <a href="https://chiragshah.org/">Prof. Chirag Shah</a>.
+
+My research focuses on generative models for multimodal information access, spanning IR, NLP, and CV. I study how modern AI systems retrieve, reason over, and generate content, and how these capabilities can be evaluated and deployed reliably in real-world settings.
+
+More broadly, I am interested in building robust and responsible AI systems, with an emphasis on evaluation, explainability, and practical scalability across applications.
