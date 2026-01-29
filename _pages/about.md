@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student, <a href='https://www.washington.edu/'>University of Washington, Seattle</a>.
+subtitle: PhD Candidate, <a href='https://www.washington.edu/'>University of Washington, Seattle</a>.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there! I am a second-year PhD student at the University of Washington, Seattle.
+Hello there! I am a PhD Candidate at the University of Washington, Seattle.
 I am interested in exploring ways to make machine learning solutions more robust, explainable, and scalable. I am fortunate to be advised by <a href='https://chiragshah.org/'>Prof. Chirag Shah</a>.
 
 Before starting my PhD, I was a researcher at <a href='https://www.tcs.com/who-we-are/newsroom/tcs-in-the-news/tcs-research'>TCS Research</a>, where I worked on explainability and robustness in machine learning. During my Master's, advised by <a href='https://scholar.google.co.in/citations?user=bbSYyiAAAAAJ&hl=en'>Prof. Bapi Raju</a>, I applied machine learning to solve problems in Neuroscience.
