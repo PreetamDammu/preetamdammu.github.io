@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2603.04656">New benchmark</a> iAgentBench on sensemaking for information-seeking agents is now on arXiv — project page at <a href="https://iagentbench.github.io/iAgentBench/">iAgentBench</a>.
+<a href="https://arxiv.org/abs/2603.04656">New paper</a> iAgentBench on sensemaking for information-seeking agents is now on arXiv — project page at <a href="https://iagentbench.github.io/iAgentBench/">iAgentBench</a>.
