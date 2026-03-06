@@ -25,4 +25,4 @@ Hello! I’m a PhD Candidate at the University of Washington, Seattle, advised b
 
 My research focuses on generative models for multimodal information access, spanning IR, NLP, and CV. I study how modern AI systems retrieve, reason over, and generate content, and how these capabilities can be evaluated and deployed reliably in real-world settings.
 
-More broadly, I am interested in building robust and responsible AI systems, with an emphasis on evaluation, explainability, and practical scalability across applications.
+More broadly, I am interested in building robust AI systems, with an emphasis on evaluation, explainability, and scalability across applications.
